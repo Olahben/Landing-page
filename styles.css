@@ -75,7 +75,14 @@ button {
     border-radius: 4px;
 }
 
-
+.card {
+    height:120px ;
+    width: 90px;
+    border-color: #3882F6;
+    border-width: medium;
+    border-style: solid;
+    border-radius: 6px;
+}
 
 
 
