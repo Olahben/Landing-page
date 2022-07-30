@@ -12,6 +12,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding-top: 8px;
+    margin-bottom: 96px;
 }
 
 
@@ -46,4 +47,8 @@ a {
 .header-subtext, a {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.header-sub {
+    display: flex;
 }
