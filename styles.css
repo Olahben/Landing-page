@@ -84,6 +84,13 @@ button {
     border-radius: 6px;
 }
 
+.information-header {
+    display: flex;
+    justify-content: center;
+}
+
+
+
 
 
 
