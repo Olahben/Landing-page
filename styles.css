@@ -77,7 +77,7 @@ button {
 
 .card {
     height:120px ;
-    width: 90px;
+    width: 110px;
     border-color: #3882F6;
     border-width: medium;
     border-style: solid;
@@ -101,6 +101,8 @@ button {
 .card-list, .card-subtext-list {
     gap: 36px;
 }
+
+
 
 
 
