@@ -107,6 +107,7 @@ button {
     height: 140px;
     text-align: center;
     color: rgb(78, 78, 78);
+    padding-top: 6px;
 }
 
 .information-header {
