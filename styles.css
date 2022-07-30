@@ -10,6 +10,17 @@ body {
 
 .header-logo-links {
     display: flex;
+    justify-content: space-between;
+}
+
+
+.header-logo {
+ margin-left: 250px;
+
+}
+
+.header-links {
+    margin-right: 250px;
 }
 
 ul {
