@@ -40,7 +40,7 @@ a {
 
 .header-heading {
     font-size: 48px;
-    font-weight: 900;
+    font-weight: 800;
     color:#F9FAF8;
     
     
@@ -106,6 +106,12 @@ button {
     width: 125px;
     height: 140px;
     text-align: center;
+}
+
+.information-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
 }
 
 
