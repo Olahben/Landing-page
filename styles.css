@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    height: 600px;
+    background-color: #1F2937;
+}
+
+.header-logo-links {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
