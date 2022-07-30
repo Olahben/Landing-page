@@ -82,6 +82,7 @@ button {
     border-width: medium;
     border-style: solid;
     border-radius: 6px;
+    
 }
 
 .information-section {
@@ -95,7 +96,10 @@ button {
  display: flex;
  flex-direction: column;
  align-items: center;
- 
+}
+
+.card-list {
+    gap: 36px;
 }
 
 
