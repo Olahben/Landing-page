@@ -84,9 +84,10 @@ button {
     border-radius: 6px;
 }
 
-.information-header {
+.information-section {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 
