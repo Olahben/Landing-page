@@ -98,7 +98,7 @@ button {
  align-items: center;
 }
 
-.card-list {
+.card-list, .card-subtext-list {
     gap: 36px;
 }
 
