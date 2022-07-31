@@ -139,7 +139,10 @@ flex-flow: column wrap;
 justify-content: center;
 align-items: center;
 width: 760px;
+}
 
+.quote-author {
+    margin-left: 570px;
 }
 
 
