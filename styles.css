@@ -189,6 +189,9 @@ width: 760px;
 .footer {
     height: 100px;
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
