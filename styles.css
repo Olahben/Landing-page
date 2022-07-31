@@ -159,6 +159,9 @@ width: 760px;
     width: 1200px;
     background-color: #3882F6;
     border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
