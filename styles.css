@@ -150,6 +150,12 @@ width: 760px;
 .sign-section {
     height: 400px;
     background-color: white;
+   
+}
+
+.sign-banner {
+    height: 180px;
+    background-color: #3882F6;
 }
 
 
