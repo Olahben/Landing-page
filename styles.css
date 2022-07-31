@@ -164,6 +164,16 @@ width: 760px;
     justify-content: center;
 }
 
+.sign-text {
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+
+.sign-subtext {
+    color: white;
+}
+
 
 
 
