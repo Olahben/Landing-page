@@ -178,6 +178,14 @@ width: 760px;
     margin-right: 300px;
 }
 
+.Sign-button {
+    border: solid;
+    border-color: white;
+    border-width: 2px;
+    width: 95px;
+    height: 28px;
+}
+
 
 
 
