@@ -151,6 +151,13 @@ width: 760px;
     height: 400px;
 }
 
+.sign-banner {
+    height: 160px;
+    width: 1100px;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
 
 
 
