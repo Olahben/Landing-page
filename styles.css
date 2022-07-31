@@ -121,6 +121,10 @@ button {
 .quote-section {
     background-color: #E5E7EB;
     height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .quote {
@@ -129,6 +133,14 @@ button {
     font-style: italic;
 }
 
+.quote-content {
+display: flex;
+flex-flow: column wrap;
+justify-content: center;
+align-items: center;
+width: 300px;
+
+}
 
 
 
